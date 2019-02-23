@@ -49,7 +49,7 @@
      display: grid;
      grid-template-columns: 1fr 960px 1fr;
      grid-template-rows: 1fr 720px 1fr;
-     background: url(/Users/bethany/Desktop/Week-02-Hw/Instructions/45degreee_fabric.png);
+     background: url(assets/images/45degreee_fabric.png);
      padding:15px;
    }
    
@@ -105,9 +105,9 @@
     }
     .subRowTwo{ display: grid;
      grid-template-columns: 1fr 1fr 1fr;
-   
-     margin-top:15px;
+   margin-top:15px;
      padding-left: 15px;}
+  
      .subRowThree{
          display: grid;
          grid-template-columns: 1fr 1fr 1fr;
@@ -125,3 +125,4 @@
    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
    color: #777777;
  }
+ 
